@@ -1,0 +1,1 @@
+CREATE TABLE account (id text not null, desc text, amount numeric);
